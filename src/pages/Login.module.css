@@ -17,3 +17,9 @@
 .button{
   padding: 10px;
 }
+.message {
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: center;
+}
